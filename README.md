@@ -1,6 +1,7 @@
 # GravatarShow
 一款基于Typecho的Gravatar头像显示插件
 
+---
 # 插件优点
 
 免配置直接启用，无需更改Typecho系统文件，方便Typecho升级，免去升级后需要再次修改！
