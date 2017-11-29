@@ -11,6 +11,6 @@
 ---
 # 使用方法
 
-下载GravatarShow.php，上传至/usr/plugins文件夹内
+下载GravatarShow.php并上传至/usr/plugins文件夹内
 登录Typecho博客后台，顶部导航栏-控制台-插件-找到GravatarShow-启用
-大功告成！试试Gravatar头像能否显示了吧！
+大功告成！试试Gravatar头像能否显示吧！
